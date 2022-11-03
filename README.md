@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @Kaifungamedev
 - 👀 I’m interested in python, godot, kotlin
-- 🌱 I’m currently learning python, c, and web development
+- 🌱 I’m currently learning python, rust, and web development
 - 💞️ I’m looking to collaborate on python games
 <!--- 📫 discord server: --->
 ## stats
